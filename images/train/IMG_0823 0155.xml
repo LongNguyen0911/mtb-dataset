@@ -1,0 +1,62 @@
+<annotation>
+	<folder>IMG_0823 (10-27-2020 11-52-36 PM)</folder>
+	<filename>IMG_0823 0155.jpg</filename>
+	<path>D:\Luan van\Frame\IMG_0823 (10-27-2020 11-52-36 PM)\IMG_0823 0155.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1166</xmin>
+			<ymin>528</ymin>
+			<xmax>1610</xmax>
+			<ymax>903</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1541</xmin>
+			<ymin>607</ymin>
+			<xmax>1706</xmax>
+			<ymax>770</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>538</ymin>
+			<xmax>914</xmax>
+			<ymax>911</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>553</ymin>
+			<xmax>281</xmax>
+			<ymax>840</ymax>
+		</bndbox>
+	</object>
+</annotation>

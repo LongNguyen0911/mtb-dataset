@@ -1,0 +1,38 @@
+<annotation>
+	<folder>IMG_0823 (10-27-2020 11-52-36 PM)</folder>
+	<filename>IMG_0823 0999.jpg</filename>
+	<path>D:\Luan van\Frame\IMG_0823 (10-27-2020 11-52-36 PM)\IMG_0823 0999.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1749</xmin>
+			<ymin>532</ymin>
+			<xmax>1920</xmax>
+			<ymax>914</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>595</ymin>
+			<xmax>441</xmax>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+</annotation>

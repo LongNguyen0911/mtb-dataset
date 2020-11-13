@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Temp</folder>
+	<filename>IMG_0823 0876.jpg</filename>
+	<path>D:\Luan van\Frame\Temp\IMG_0823 0876.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1503</xmin>
+			<ymin>616</ymin>
+			<xmax>1674</xmax>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1112</xmin>
+			<ymin>543</ymin>
+			<xmax>1493</xmax>
+			<ymax>903</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>543</ymin>
+			<xmax>1464</xmax>
+			<ymax>1057</ymax>
+		</bndbox>
+	</object>
+</annotation>
